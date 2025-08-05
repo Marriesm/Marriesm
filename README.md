@@ -25,21 +25,25 @@
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Marrie-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Maria-Java" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" />
   <img align="center" alt="Marrie-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Marrie-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Marrie-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Marrie-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Marrie-Vscode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
+   <img align="center" alt="Maria-Oracle" height="40" width="40" src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
   <img align="center" alt="Maria-SQL" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-  <img align="center" alt="Maria-Java" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" />
+  
 </div>
 
 ##
-- 💻 Front-end: HTML, CSS, JavaScript e React para criação de interfaces modernas e dinâmicas.
-- 💻 Back-end: PHP para desenvolvimento de aplicações robustas.
-- 📊 Banco de Dados: SQL para manipulação e análise de dados.
-- 🐍 Análise de Dados: Python para automação e manipulação de informações.
-- 🛠️ Ferramentas: Visual Studio Code para desenvolvimento e GitHub para versionamento de código.
+- 💻 **Front-end:** HTML, SCSS, Tailwind CSS, JavaScript, React e TypeScript para criação de interfaces modernas, responsivas e interativas.
+- 🧠 **Back-end:** Java com Spring Boot e Node.js para construção de APIs e aplicações robustas, orientadas a objetos e escaláveis.
+- 🗄️ **Banco de Dados:** SQL e Oracle para modelagem, manipulação e análise de dados relacionais.
+- 📊 **Análise de Dados:** Python com bibliotecas como Pandas, NumPy e Matplotlib, aplicando conceitos de estatística, automação, visualização de dados e introdução ao Machine Learning.
+- 🧪 **Ferramentas e Tecnologias:** Visual Studio Code, GitHub para versionamento de código, Figma para design de interfaces e SendGrid para automação de e-mails.
+- 🚀 **Stack Full Stack em evolução**, com foco em desenvolvimento moderno, boas práticas e integração entre engenharia de software e visão analítica.
+
 
 ## 🌟**Sobre mim:**
 
