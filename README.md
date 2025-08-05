@@ -24,20 +24,20 @@
 ## 🛠️Linguagens e ferramentas!
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Marrie-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Marrie-Typescript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
-  <img align="center" alt="Maria-Java" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" />
-  <img align="center" alt="Marrie-NodeJs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="Marrie-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Marrie-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Marrie-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Marrie-SCSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
-  <img align="center" alt="Marrie-TailwindCSS" height="30" width="40" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg">
-  <img align="center" alt="Marrie-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Marrie-Vscode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
-  <img align="center" alt="Marrie-IntelliJ" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg">
-  <img align="center" alt="Maria-Oracle" height="40" width="40" src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
-  <img align="center" alt="Maria-SQL" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+  <img align="center" alt="Marrie-Js" height="40" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Marrie-Typescript" height="40" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
+  <img align="center" alt="Maria-Java" height="40" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" />
+  <img align="center" alt="Marrie-NodeJs" height="40" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="Marrie-React" height="40" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Marrie-HTML" height="40" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Marrie-CSS" height="40" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Marrie-SCSS" height="40" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
+  <img align="center" alt="Marrie-TailwindCSS" height="40" width="45" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg">
+  <img align="center" alt="Marrie-Python" height="40" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Marrie-Vscode" height="40" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
+  <img align="center" alt="Marrie-IntelliJ" height="40" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg">
+  <img align="center" alt="Maria-Oracle" height="40" width="45" src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
+  <img align="center" alt="Maria-SQL" height="40" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
   
 </div>
 
@@ -52,8 +52,14 @@
 
 ## 🌟**Sobre mim:**
 
-- 💚 Sou estudante de Engenharia de Software, apaixonada por tecnologia e desenvolvimento web. Atualmente, estou aprimorando minhas habilidades em React para desenvolvimento front-end moderno, além de aprofundar meus conhecimentos em PHP, SQL, Python, CSS e JavaScript.
-- 📌 Objetivo: Me tornar uma desenvolvedora Full Stack e aprofundar meus conhecimentos em React, back-end e análise de dados.
+💡 Sou Maria Eduarda Soares, estudante de Engenharia de Software e entusiasta do desenvolvimento web e da análise de dados. Meu foco é unir a lógica da programação com o poder dos dados para criar soluções eficientes e modernas.
+
+👩‍💻 Atuo como desenvolvedora em constante evolução, com habilidades em front-end utilizando HTML, SCSS, Tailwind, JavaScript, React e TypeScript. No back-end, venho me aprofundando em Java com Spring Boot, Node.js e bancos de dados relacionais como SQL e Oracle.
+
+📊 Também sou apaixonada por análise de dados, com experiência em Python, Pandas, NumPy, e fundamentos de Machine Learning, sempre buscando transformar dados em decisões estratégicas.
+
+🚀 Meu objetivo é crescer como **Desenvolvedora Full Stack** e **Analista de Dados**, integrando tecnologia, inteligência e usabilidade para entregar soluções reais e impactantes.
+
 
   ---
 
