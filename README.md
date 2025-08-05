@@ -3,8 +3,8 @@
 
 
 - 👩🏻‍🎓 Estudante de **Engenharia de Software** !
-- 💻 Estudante da **Alura**.
-- 🧩 **Desenvolvedora Full Stack**.
+- 💻 Estudante da **Alura**/ **Udemy**.
+- 🧩 **Desenvolvedora Full Stack e Analista de Dados**.
 ##
   
 
@@ -69,7 +69,7 @@
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake.svg">
 </picture>
 
- 🚀 **Estou pronto para ser uma desenvolvedora excepcional em sua empresa**. Vamos construir algo incrível juntos!
+ 🚀 **Estou pronta para ser uma desenvolvedora excepcional em sua empresa**. Vamos construir algo incrível juntos!
   
 
 
